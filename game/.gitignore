@@ -3,6 +3,8 @@
 # Edit at https://www.gitignore.io/?templates=django
 
 node_modules
+env
+venv
 
 ### Django ###
 *.log
